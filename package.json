@@ -1,0 +1,17 @@
+{
+  "name": "data-rep-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhishek bhat",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
