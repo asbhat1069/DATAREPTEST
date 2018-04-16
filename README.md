@@ -17,3 +17,5 @@ Running Tests:
 * set the selenium standalone server jar path to the env variable  
 
 * Run using the command > protractor protractor.conf.js
+
+* The results will be generated in the Folder report in HTML format
